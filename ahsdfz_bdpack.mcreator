@@ -1,0 +1,1377 @@
+{
+  "mod_elements": [
+    {
+      "name": "AHSDFZBuildingPack",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ahsdfz_building_pack"
+    },
+    {
+      "name": "MarbleFloorBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_floor_block"
+    },
+    {
+      "name": "TheSchoolSongOfTheSecondarySchoolAffiliatedToAnhuiNormalUniversityDangWuPinZaiBeiBaoZhongMeiKeFaSheng",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_school_song_of_the_secondary_school_affiliated_to_anhui_normal_university_dang_wu_pin_zai_bei_bao_zhong_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TheSchoolSongOfTheSecondarySchoolAffiliatedToAnhuiNormalUniversity",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_school_song_of_the_secondary_school_affiliated_to_anhui_normal_university"
+    },
+    {
+      "name": "PastePorcelainRedBrick",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paste_porcelain_red_brick"
+    },
+    {
+      "name": "SchoolBadgeDangWuPinZaiBeiBaoZhongMeiKeFaSheng",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_badge_dang_wu_pin_zai_bei_bao_zhong_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SchoolBadge",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_badge"
+    },
+    {
+      "name": "PaintedConcerteBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_concerte_block"
+    },
+    {
+      "name": "WhitePorcelainBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_porcelain_block"
+    },
+    {
+      "name": "DeskStorage",
+      "type": "gui",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desk_storage"
+    },
+    {
+      "name": "BlackboardComputer",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_computer"
+    },
+    {
+      "name": "PaintedConcerteStair",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_concerte_stair"
+    },
+    {
+      "name": "PaintedConcerteSlab",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_concerte_slab"
+    },
+    {
+      "name": "VerticalHalfBrickPaintedConcertate",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vertical_half_brick_painted_concertate"
+    },
+    {
+      "name": "PlatformSlab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platform_slab"
+    },
+    {
+      "name": "PlatformStorage",
+      "type": "gui",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platform_storage"
+    },
+    {
+      "name": "Platform",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platform"
+    },
+    {
+      "name": "Blackboardside",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboardside"
+    },
+    {
+      "name": "IflytekDevice",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iflytek_device"
+    },
+    {
+      "name": "Projector",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "projector"
+    },
+    {
+      "name": "ComputerSpeaker",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer_speaker"
+    },
+    {
+      "name": "ComputerSpeaker2",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer_speaker_2"
+    },
+    {
+      "name": "VerticalAirConditioning",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vertical_air_conditioning"
+    },
+    {
+      "name": "NationalFlagSmall",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "national_flag_small"
+    },
+    {
+      "name": "ClickToExciteNerve",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "click_to_excite_nerve",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SchoolSpeakerSmall",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_speaker_small"
+    },
+    {
+      "name": "PorcelainBlockYellow",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "porcelain_block_yellow"
+    },
+    {
+      "name": "PorcelainWhiteAndYellow",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "porcelain_white_and_yellow"
+    },
+    {
+      "name": "ProcelainRedbrickAndConcertre",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_redbrick_and_porcelain_block"
+    },
+    {
+      "name": "ProcelainRedbrickAndWhiteConcrete",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_redbrick_and_white_concrete"
+    },
+    {
+      "name": "ProcelainRedbrickAndProcelainBlockYellow",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_redbrick_and_procelain_block_yellow"
+    },
+    {
+      "name": "StudentDesk",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "student_desk"
+    },
+    {
+      "name": "StudentChairZaiFangKuaiShangYouJian",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "student_chair_zai_fang_kuai_shang_you_jian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StudentChair",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "student_chair"
+    },
+    {
+      "name": "Chair",
+      "type": "livingentity",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ahsdfz_chair"
+    },
+    {
+      "name": "StickyChairWARING",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sticky_chair_waring",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StudentChairDangShiTiZaiFangKuaiZhongPengZhuangShi",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "student_chair_dang_shi_ti_zai_fang_kuai_zhong_peng_zhuang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClassroomChargerHongShiDianYuanKaiQiShi",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "classroom_charger_hong_shi_dian_yuan_kai_qi_shi",
+      "metadata": {
+        "return_type": "string",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClassroomCharger",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "classroom_charger"
+    },
+    {
+      "name": "ChargerStorage",
+      "type": "gui",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charger_storage"
+    },
+    {
+      "name": "Studentcloset",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "studentcloset"
+    },
+    {
+      "name": "CCTVCamera",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cctv_camera"
+    },
+    {
+      "name": "SchoolCamera",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_camera"
+    },
+    {
+      "name": "ClassDoor",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_door"
+    },
+    {
+      "name": "DoorWindowSmall",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "door_window_small"
+    },
+    {
+      "name": "DoorWindowSmallNone",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "door_window_small_none"
+    },
+    {
+      "name": "ClassBoard",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_board"
+    },
+    {
+      "name": "ClassPaint",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_paint"
+    },
+    {
+      "name": "GlassYellow",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glass_yellow"
+    },
+    {
+      "name": "GlassYellow2",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glass_yellow_2"
+    },
+    {
+      "name": "BlackboardPaint1",
+      "type": "painting",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_1"
+    },
+    {
+      "name": "Schyy1",
+      "type": "painting",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schyy_1"
+    },
+    {
+      "name": "ClassLamp",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_lamp"
+    },
+    {
+      "name": "ClassLampFront",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_lamp_front"
+    },
+    {
+      "name": "BlackboardPaint2",
+      "type": "painting",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_2"
+    },
+    {
+      "name": "BlackboardPaint3",
+      "type": "painting",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_3"
+    },
+    {
+      "name": "BlackboardPaint4",
+      "type": "painting",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_4"
+    },
+    {
+      "name": "BlackboardPaint5",
+      "type": "painting",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_5"
+    },
+    {
+      "name": "BlackboardPaint6",
+      "type": "painting",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_6"
+    },
+    {
+      "name": "BlackboardPaint7",
+      "type": "painting",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_7"
+    },
+    {
+      "name": "BlackboardPaint8",
+      "type": "painting",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_8"
+    },
+    {
+      "name": "BlackboardPaint9",
+      "type": "painting",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_9"
+    },
+    {
+      "name": "BlackboardPaint10",
+      "type": "painting",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_10"
+    },
+    {
+      "name": "BlackboardPaint11",
+      "type": "painting",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_11"
+    },
+    {
+      "name": "BlackboardPaint12",
+      "type": "painting",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_12"
+    },
+    {
+      "name": "BlackboardPaint13",
+      "type": "painting",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_13"
+    },
+    {
+      "name": "BlackboardPaint14",
+      "type": "painting",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_14"
+    },
+    {
+      "name": "BlackboardPaint15",
+      "type": "painting",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_15"
+    },
+    {
+      "name": "BlackboardPaint16",
+      "type": "painting",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_16"
+    },
+    {
+      "name": "BlackboardPaint17",
+      "type": "painting",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_17"
+    },
+    {
+      "name": "BlackboardPaint18",
+      "type": "painting",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_18"
+    },
+    {
+      "name": "BlackboardPaint19",
+      "type": "painting",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_19"
+    },
+    {
+      "name": "BlackboardPaint20",
+      "type": "painting",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackboard_paint_20"
+    },
+    {
+      "name": "ClassSwitchF",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_switch_f"
+    },
+    {
+      "name": "Schyy2",
+      "type": "painting",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schyy_2"
+    },
+    {
+      "name": "Schyy3",
+      "type": "painting",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schyy_3"
+    },
+    {
+      "name": "Schyy4",
+      "type": "painting",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schyy_4"
+    },
+    {
+      "name": "Schyy5",
+      "type": "painting",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schyy_5"
+    },
+    {
+      "name": "Schyy6",
+      "type": "painting",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schyy_6"
+    },
+    {
+      "name": "ClassSignNormal",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_sign_normal"
+    },
+    {
+      "name": "ClassSignRare",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_sign_rare"
+    },
+    {
+      "name": "ClassSignEpic",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_sign_epic"
+    },
+    {
+      "name": "SpeakerClassOld",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speaker_class_old"
+    },
+    {
+      "name": "ClassFrontBoard",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_front_board"
+    },
+    {
+      "name": "HallwayLamp",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hallway_lamp"
+    },
+    {
+      "name": "ClassSwitchB",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_switch_b"
+    },
+    {
+      "name": "CCTVLongCameraLeft",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cctv_long_camera_left"
+    },
+    {
+      "name": "CCTVLongCameraRight",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cctv_long_camera_right"
+    },
+    {
+      "name": "CCTVLongCameraStraight",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cctv_long_camera_straight"
+    },
+    {
+      "name": "ElectryLongBox",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electry_long_box"
+    },
+    {
+      "name": "ElectryLongBoxLink",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electry_long_box_link"
+    },
+    {
+      "name": "ElectryLongBoxTranspart",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electry_long_box_transpart"
+    },
+    {
+      "name": "ElectryLongBoxTurner",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electry_long_box_turner"
+    },
+    {
+      "name": "InsideClassPaint1",
+      "type": "painting",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inside_class_paint_1"
+    },
+    {
+      "name": "ClassCurtainRight",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_curtain_right"
+    },
+    {
+      "name": "ClassCurtainLeft",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_curtain_left"
+    },
+    {
+      "name": "ClassCurtainNone",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_curtain_none"
+    },
+    {
+      "name": "ClassCurtainAll",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_curtain_all"
+    },
+    {
+      "name": "ClassCurtainNoneLeft",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_curtain_none_left"
+    },
+    {
+      "name": "ClassCurtainNoneRight",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_curtain_none_right"
+    },
+    {
+      "name": "ClassFrontBoardVariety",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_front_board_variety"
+    },
+    {
+      "name": "ClassFrontBoardVarless",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_front_board_varless"
+    },
+    {
+      "name": "ClassFrontBoardVarnone",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_front_board_varnone"
+    },
+    {
+      "name": "ClassGlassOuter",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_glass_outer"
+    },
+    {
+      "name": "ClassGlassInner",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_glass_inner"
+    },
+    {
+      "name": "ClassGlassThicker",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_glass_thicker"
+    },
+    {
+      "name": "RevetmentNormal",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "revetment_normal"
+    },
+    {
+      "name": "RevetmentLeft",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "revetment_left"
+    },
+    {
+      "name": "RevetmentMiddle",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "revetment_middle"
+    },
+    {
+      "name": "RevetmentRight",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "revetment_right"
+    },
+    {
+      "name": "VerticalHalfBrickVerRBAndY",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vertical_half_brick_var_left"
+    },
+    {
+      "name": "VerticalHalfBrickVerRBAndW",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vertical_half_brick_var_middle"
+    },
+    {
+      "name": "MiddleInFloor",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "middle_in_floor"
+    },
+    {
+      "name": "VerticalHalfBrickVarRight",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vertical_half_brick_var_right"
+    },
+    {
+      "name": "StairFloor",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stair_floor"
+    },
+    {
+      "name": "FireboxButton",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "firebox_button"
+    },
+    {
+      "name": "ProcelainWhiteAndConcerte",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_white_and_concerte"
+    },
+    {
+      "name": "ClassFanMoving",
+      "type": "animatedblock",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "class_fan"
+    },
+    {
+      "name": "Tester",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tester"
+    },
+    {
+      "name": "MiddleInFloorMiddle",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "middle_in_floor_middle"
+    },
+    {
+      "name": "RevetmentNormalMiddle",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "revetment_normal_middle"
+    },
+    {
+      "name": "StairBrickNormal",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stair_brick_normal"
+    },
+    {
+      "name": "ProcelainYellowAndConcrete",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_yellow_and_concrete"
+    },
+    {
+      "name": "ProcelainYellowWhiteAndConcerte",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_yellow_white_and_concerte"
+    },
+    {
+      "name": "ProcelainHalfYellowAndConcerte",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_half_yellow_and_concerte"
+    },
+    {
+      "name": "ProcelainRedbrickYellowAndConcerte",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procelain_redbrick_yellow_and_concerte"
+    },
+    {
+      "name": "Tester2",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tester_2"
+    },
+    {
+      "name": "SchoolSpeakerYellow",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_speaker_yellow"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "school_song",
+      "files": [
+        "school_song"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.ahsdfz_bdpack.computer_speaker_2": "Computer Speaker 2",
+      "block.ahsdfz_bdpack.middle_in_floor": "Middle In Floor",
+      "block.ahsdfz_bdpack.porcelain_white_and_yellow": "Porcelain White And Yellow",
+      "block.ahsdfz_bdpack.procelain_redbrick_and_white_concrete": "Procelain Redbrick And White Concrete",
+      "block.ahsdfz_bdpack.painted_concerte_slab": "Painted Concerte Slab",
+      "block.ahsdfz_bdpack.class_switch_b": "Class Switch B",
+      "block.ahsdfz_bdpack.class_curtain_none_right": "Class Curtain None Right",
+      "block.ahsdfz_bdpack.class_sign_normal": "Class Sign Normal",
+      "block.ahsdfz_bdpack.iflytek_device": "Iflytek Device",
+      "block.ahsdfz_bdpack.school_speaker_yellow": "School Speaker Yellow",
+      "block.ahsdfz_bdpack.class_glass_outer": "Class Glass Outer",
+      "block.ahsdfz_bdpack.stair_floor": "Stair Floor",
+      "block.ahsdfz_bdpack.class_front_board": "Class Front Board",
+      "block.ahsdfz_bdpack.blackboard_computer": "Blackboard Computer",
+      "block.ahsdfz_bdpack.revetment_normal": "Revetment Normal",
+      "block.ahsdfz_bdpack.platform": "Platform",
+      "block.ahsdfz_bdpack.electry_long_box_turner": "Electry Long Box Turner",
+      "block.ahsdfz_bdpack.procelain_redbrick_and_porcelain_block": "Procelain Redbrick And Concertre",
+      "block.ahsdfz_bdpack.projector": "Projector",
+      "block.ahsdfz_bdpack.painted_concerte_stair": "Painted Concerte Stair",
+      "block.ahsdfz_bdpack.blackboardside": "Blackboardside",
+      "block.ahsdfz_bdpack.studentcloset": "Studentcloset",
+      "block.ahsdfz_bdpack.cctv_long_camera_right": "CCTV Long Camera Right",
+      "block.ahsdfz_bdpack.revetment_right": "Revetment Right",
+      "block.ahsdfz_bdpack.vertical_half_brick_var_middle": "Vertical Half Brick Ver RB And W",
+      "block.ahsdfz_bdpack.porcelain_block_yellow": "Porcelain Block Yellow",
+      "block.ahsdfz_bdpack.class_glass_inner": "Class Glass Inner",
+      "item.ahsdfz_bdpack.ahsdfz_chair_spawn_egg": "Chair Spawn Egg",
+      "block.ahsdfz_bdpack.revetment_normal_middle": "Revetment Normal Middle",
+      "block.ahsdfz_bdpack.class_front_board_varless": "Class Front Board Varless",
+      "block.ahsdfz_bdpack.class_paint": "Class Paint",
+      "subtitles.school_song": "Xuanhai YYDS!",
+      "block.ahsdfz_bdpack.white_porcelain_block": "White Porcelain Block",
+      "block.ahsdfz_bdpack.vertical_air_conditioning": "Vertical Air Conditioning",
+      "block.ahsdfz_bdpack.classroom_charger": "Classroom Charger",
+      "block.ahsdfz_bdpack.electry_long_box_link": "Electry Long Box Link",
+      "block.ahsdfz_bdpack.class_curtain_none": "Class Curtain None",
+      "block.ahsdfz_bdpack.glass_yellow_2": "Glass Yellow 2",
+      "block.ahsdfz_bdpack.revetment_middle": "Revetment Middle",
+      "block.ahsdfz_bdpack.class_door": "Class Door",
+      "block.ahsdfz_bdpack.class_curtain_none_left": "Class Curtain None Left",
+      "block.ahsdfz_bdpack.procelain_yellow_white_and_concerte": "Procelain Yellow White And Concerte",
+      "item.ahsdfz_bdpack.the_school_song_of_the_secondary_school_affiliated_to_anhui_normal_university": "Music Disc",
+      "block.ahsdfz_bdpack.cctv_long_camera_left": "CCTV Long Camera Left",
+      "block.ahsdfz_bdpack.paste_porcelain_red_brick": "Paste Porcelain Red Brick",
+      "block.ahsdfz_bdpack.door_window_small": "Door Window Small",
+      "block.ahsdfz_bdpack.procelain_white_and_concerte": "Procelain White And Concerte",
+      "block.ahsdfz_bdpack.procelain_half_yellow_and_concerte": "Procelain Half Yellow And Concerte",
+      "block.ahsdfz_bdpack.procelain_redbrick_yellow_and_concerte": "Procelain Redbrick Yellow And Concerte",
+      "entity.ahsdfz_bdpack.ahsdfz_chair": "Chair",
+      "block.ahsdfz_bdpack.platform_slab": "Platform Slab",
+      "block.ahsdfz_bdpack.revetment_left": "Revetment Left",
+      "item.ahsdfz_bdpack.the_school_song_of_the_secondary_school_affiliated_to_anhui_normal_university.desc": "陶思耀，徐太春 - 安徽师范大学附属中学校歌",
+      "block.ahsdfz_bdpack.cctv_camera": "CCTV Camera",
+      "block.ahsdfz_bdpack.class_front_board_varnone": "Class Front Board Varnone",
+      "block.ahsdfz_bdpack.electry_long_box_transpart": "Electry Long Box Transpart",
+      "block.ahsdfz_bdpack.vertical_half_brick_var_right": "Vertical Half Brick Var Right",
+      "block.ahsdfz_bdpack.national_flag_small": "National Flag Small",
+      "block.ahsdfz_bdpack.class_front_board_variety": "Class Front Board Variety",
+      "block.ahsdfz_bdpack.class_sign_rare": "Class Sign Rare",
+      "block.ahsdfz_bdpack.tester": "Tester",
+      "block.ahsdfz_bdpack.school_camera": "School Camera",
+      "block.ahsdfz_bdpack.student_chair": "Student Chair",
+      "block.ahsdfz_bdpack.class_curtain_right": "Class Curtain Right",
+      "block.ahsdfz_bdpack.class_curtain_all": "Class Curtain All",
+      "block.ahsdfz_bdpack.marble_floor_block": "Marble Floor Block",
+      "block.ahsdfz_bdpack.class_board": "Class Board",
+      "block.ahsdfz_bdpack.computer_speaker": "Computer Speaker",
+      "block.ahsdfz_bdpack.vertical_half_brick_painted_concertate": "Vertical Half Brick Painted Concertate",
+      "block.ahsdfz_bdpack.tester_2": "Tester 2",
+      "block.ahsdfz_bdpack.vertical_half_brick_var_left": "Vertical Half Brick Ver RB And Y",
+      "block.ahsdfz_bdpack.middle_in_floor_middle": "Middle In Floor Middle",
+      "block.ahsdfz_bdpack.class_lamp": "Class Lamp",
+      "block.ahsdfz_bdpack.hallway_lamp": "Hallway Lamp",
+      "block.ahsdfz_bdpack.class_glass_thicker": "Class Glass Thicker",
+      "block.ahsdfz_bdpack.cctv_long_camera_straight": "CCTV Long Camera Straight",
+      "block.ahsdfz_bdpack.stair_brick_normal": "Stair Brick Normal",
+      "itemGroup.tabahsdfz_building_pack": "AHSDFZ Building Extend Pack",
+      "block.ahsdfz_bdpack.procelain_yellow_and_concrete": "Procelain Yellow And Concrete",
+      "block.ahsdfz_bdpack.procelain_redbrick_and_procelain_block_yellow": "Procelain Redbrick And Procelain Block Yellow",
+      "block.ahsdfz_bdpack.class_sign_epic": "Class Sign Epic",
+      "block.ahsdfz_bdpack.painted_concerte_block": "Painted Concerte Block",
+      "block.ahsdfz_bdpack.firebox_button": "Firebox Button",
+      "block.ahsdfz_bdpack.class_fan": "Class Fan",
+      "block.ahsdfz_bdpack.class_switch_f": "Class Switch F",
+      "block.ahsdfz_bdpack.speaker_class_old": "Speaker Class Old",
+      "block.ahsdfz_bdpack.student_desk": "Student Desk",
+      "block.ahsdfz_bdpack.class_lamp_front": "Class Lamp Front",
+      "block.ahsdfz_bdpack.glass_yellow": "Glass Yellow",
+      "block.ahsdfz_bdpack.electry_long_box": "Electry Long Box",
+      "block.ahsdfz_bdpack.school_speaker_small": "School Speaker Small",
+      "block.ahsdfz_bdpack.class_curtain_left": "Class Curtain Left",
+      "item.ahsdfz_bdpack.school_badge": "School Badge",
+      "block.ahsdfz_bdpack.door_window_small_none": "Door Window Small None"
+    },
+    "zh_cn": {
+      "block.ahsdfz_bdpack.computer_speaker_2": "智慧教学屏幕配套音响-接收端",
+      "block.ahsdfz_bdpack.middle_in_floor": "Middle In Floor",
+      "block.ahsdfz_bdpack.procelain_redbrick_and_white_concrete": "红砖配白漆",
+      "block.ahsdfz_bdpack.porcelain_white_and_yellow": "白瓷砖配黄瓷砖",
+      "block.ahsdfz_bdpack.painted_concerte_slab": "粉刷过的砼半砖",
+      "block.ahsdfz_bdpack.class_switch_b": "Class Switch B",
+      "block.ahsdfz_bdpack.class_curtain_none_right": "Class Curtain None Right",
+      "block.ahsdfz_bdpack.class_sign_normal": "Class Sign Normal",
+      "block.ahsdfz_bdpack.iflytek_device": "畅言®教学主机",
+      "block.ahsdfz_bdpack.school_speaker_yellow": "School Speaker Yellow",
+      "block.ahsdfz_bdpack.class_glass_outer": "Class Glass Outer",
+      "block.ahsdfz_bdpack.stair_floor": "Stair Floor",
+      "block.ahsdfz_bdpack.class_front_board": "Class Front Board",
+      "block.ahsdfz_bdpack.blackboard_computer": "鸿合®智慧教学屏幕",
+      "block.ahsdfz_bdpack.revetment_normal": "Revetment Normal",
+      "block.ahsdfz_bdpack.platform": "讲台",
+      "block.ahsdfz_bdpack.electry_long_box_turner": "Electry Long Box Turner",
+      "block.ahsdfz_bdpack.procelain_redbrick_and_porcelain_block": "红砖配白瓷砖",
+      "block.ahsdfz_bdpack.projector": "挂式投影仪",
+      "block.ahsdfz_bdpack.painted_concerte_stair": "粉刷过的砼台阶",
+      "block.ahsdfz_bdpack.blackboardside": "普通黑板",
+      "block.ahsdfz_bdpack.studentcloset": "老式木柜",
+      "block.ahsdfz_bdpack.cctv_long_camera_right": "CCTV Long Camera Right",
+      "block.ahsdfz_bdpack.revetment_right": "Revetment Right",
+      "block.ahsdfz_bdpack.vertical_half_brick_var_middle": "Vertical Half Brick Ver RB And W",
+      "block.ahsdfz_bdpack.porcelain_block_yellow": "黄面瓷砖",
+      "block.ahsdfz_bdpack.class_glass_inner": "Class Glass Inner",
+      "item.ahsdfz_bdpack.ahsdfz_chair_spawn_egg": "“你不应该得到它”",
+      "block.ahsdfz_bdpack.revetment_normal_middle": "Revetment Normal Middle",
+      "block.ahsdfz_bdpack.class_front_board_varless": "Class Front Board Varless",
+      "block.ahsdfz_bdpack.class_paint": "Class Paint",
+      "subtitles.school_song": "老毛永远滴神！",
+      "block.ahsdfz_bdpack.white_porcelain_block": "白色瓷砖",
+      "block.ahsdfz_bdpack.vertical_air_conditioning": "立式空调",
+      "block.ahsdfz_bdpack.classroom_charger": "平板电脑充电柜",
+      "block.ahsdfz_bdpack.electry_long_box_link": "Electry Long Box Link",
+      "block.ahsdfz_bdpack.class_curtain_none": "Class Curtain None",
+      "block.ahsdfz_bdpack.glass_yellow_2": "Glass Yellow 2",
+      "block.ahsdfz_bdpack.revetment_middle": "Revetment Middle",
+      "block.ahsdfz_bdpack.class_door": "Class Door",
+      "block.ahsdfz_bdpack.class_curtain_none_left": "Class Curtain None Left",
+      "block.ahsdfz_bdpack.procelain_yellow_white_and_concerte": "Procelain Yellow White And Concerte",
+      "item.ahsdfz_bdpack.the_school_song_of_the_secondary_school_affiliated_to_anhui_normal_university": "音乐唱片",
+      "block.ahsdfz_bdpack.cctv_long_camera_left": "CCTV Long Camera Left",
+      "block.ahsdfz_bdpack.paste_porcelain_red_brick": "瓷面红砖块",
+      "block.ahsdfz_bdpack.door_window_small": "Door Window Small",
+      "block.ahsdfz_bdpack.procelain_white_and_concerte": "Procelain White And Concerte",
+      "block.ahsdfz_bdpack.procelain_half_yellow_and_concerte": "Procelain Half Yellow And Concerte",
+      "block.ahsdfz_bdpack.procelain_redbrick_yellow_and_concerte": "Procelain Redbrick Yellow And Concerte",
+      "entity.ahsdfz_bdpack.ahsdfz_chair": "椅子-可执行实体",
+      "block.ahsdfz_bdpack.platform_slab": "讲台前半砖",
+      "block.ahsdfz_bdpack.revetment_left": "Revetment Left",
+      "item.ahsdfz_bdpack.the_school_song_of_the_secondary_school_affiliated_to_anhui_normal_university.desc": "陶思耀，徐太春 - 安徽师范大学附属中学校歌",
+      "block.ahsdfz_bdpack.cctv_camera": "CCTV Camera",
+      "block.ahsdfz_bdpack.class_front_board_varnone": "Class Front Board Varnone",
+      "block.ahsdfz_bdpack.electry_long_box_transpart": "Electry Long Box Transpart",
+      "block.ahsdfz_bdpack.vertical_half_brick_var_right": "Vertical Half Brick Var Right",
+      "block.ahsdfz_bdpack.national_flag_small": "教室内悬挂旗帜",
+      "block.ahsdfz_bdpack.class_front_board_variety": "Class Front Board Variety",
+      "block.ahsdfz_bdpack.class_sign_rare": "Class Sign Rare",
+      "block.ahsdfz_bdpack.tester": "Tester",
+      "block.ahsdfz_bdpack.school_camera": "School Camera",
+      "block.ahsdfz_bdpack.student_chair": "学生椅",
+      "block.ahsdfz_bdpack.class_curtain_right": "Class Curtain Right",
+      "block.ahsdfz_bdpack.class_curtain_all": "Class Curtain All",
+      "block.ahsdfz_bdpack.marble_floor_block": "大理石地板块",
+      "block.ahsdfz_bdpack.class_board": "Class Board",
+      "block.ahsdfz_bdpack.computer_speaker": "智慧教学屏幕配套音响-输入端",
+      "block.ahsdfz_bdpack.vertical_half_brick_painted_concertate": "瓷面红竖半砖",
+      "block.ahsdfz_bdpack.tester_2": "Tester 2",
+      "block.ahsdfz_bdpack.vertical_half_brick_var_left": "Vertical Half Brick Ver RB And Y",
+      "block.ahsdfz_bdpack.middle_in_floor_middle": "Middle In Floor Middle",
+      "block.ahsdfz_bdpack.class_lamp": "Class Lamp",
+      "block.ahsdfz_bdpack.hallway_lamp": "Hallway Lamp",
+      "block.ahsdfz_bdpack.class_glass_thicker": "Class Glass Thicker",
+      "block.ahsdfz_bdpack.cctv_long_camera_straight": "CCTV Long Camera Straight",
+      "block.ahsdfz_bdpack.stair_brick_normal": "Stair Brick Normal",
+      "itemGroup.tabahsdfz_building_pack": "安师大附中建筑扩展包",
+      "block.ahsdfz_bdpack.procelain_yellow_and_concrete": "Procelain Yellow And Concrete",
+      "block.ahsdfz_bdpack.procelain_redbrick_and_procelain_block_yellow": "红砖配黄瓷砖",
+      "block.ahsdfz_bdpack.class_sign_epic": "Class Sign Epic",
+      "block.ahsdfz_bdpack.painted_concerte_block": "粉刷过的砼",
+      "block.ahsdfz_bdpack.firebox_button": "Firebox Button",
+      "block.ahsdfz_bdpack.class_fan": "Class Fan Moving",
+      "block.ahsdfz_bdpack.class_switch_f": "Class Switch F",
+      "block.ahsdfz_bdpack.speaker_class_old": "Speaker Class Old",
+      "block.ahsdfz_bdpack.student_desk": "课桌",
+      "block.ahsdfz_bdpack.class_lamp_front": "Class Lamp Front",
+      "block.ahsdfz_bdpack.glass_yellow": "Glass Yellow",
+      "block.ahsdfz_bdpack.electry_long_box": "Electry Long Box",
+      "block.ahsdfz_bdpack.school_speaker_small": "教室内广播音响",
+      "block.ahsdfz_bdpack.class_curtain_left": "Class Curtain Left",
+      "item.ahsdfz_bdpack.school_badge": "校徽",
+      "block.ahsdfz_bdpack.door_window_small_none": "Door Window Small None"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ahsdfz_bdpack",
+    "modName": "AHSDFZ Building Pack",
+    "version": "1.0.0",
+    "description": "仅用于Minecraft:安师大附中建设工程",
+    "author": "破笔",
+    "websiteURL": "https://fz.ahnu.edu.cn/",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "school_badge",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.ahsdfzbdpack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
